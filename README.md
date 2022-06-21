@@ -1,2 +1,8 @@
-# ppl
-HCMUT Principles of Programming Languages Assignment, HK212
+# Principles of Programming Languages
+
+## Introduction
+
+## File Structure
+
+## Notation
+
