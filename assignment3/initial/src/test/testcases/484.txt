@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main)[VarDecl(Id(a)),VarDecl(Id(b))],([][If(CallExpr(Id(main),[Id(b),IntLiteral(5)]),[],[])Else([],[])]))])

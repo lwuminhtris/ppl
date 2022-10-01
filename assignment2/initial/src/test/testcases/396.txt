@@ -1,0 +1,1 @@
+Var: a,b=2e-13,d[2]=0x12; Function: main Body: a=1+2%3 \ (5>6) == -True || !"False" --3 +-3 -!3 && {1}; If a%2 == 0 Then b= True ||2.3 * 5 == 3 && 1 + -6 ; Else b= False; EndIf. print(f()[5],a,print(b),c[2]); EndBody.

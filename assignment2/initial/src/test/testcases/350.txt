@@ -1,0 +1,1 @@
+Function: empty Body: func(!func()); EndBody.

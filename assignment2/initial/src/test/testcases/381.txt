@@ -1,0 +1,5 @@
+Function: main **main** Body**:**: If a**==** == b Then a=5**or = 6**; ElseIf a!=b Then **Return;** Continue; EndIf. EndBody. **Var: x;** **
+
+
+
+**

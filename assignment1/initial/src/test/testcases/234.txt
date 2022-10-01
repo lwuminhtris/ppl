@@ -1,0 +1,14 @@
+
+            Function: main 
+                Body: 
+                    If something Then 
+                        Return; 
+                    ElseIf nothing Then 
+                        Return; 
+                    ElseIf maybe Then 
+                        Var: a=2; 
+                    Else 
+                        Return; 
+                    EndIf. 
+                EndBody.
+        

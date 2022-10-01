@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(comp)[],([][Assign(Id(a),BinaryOp(+,CallExpr(Id(f),[CallExpr(Id(f),[CallExpr(Id(f),[CallExpr(Id(f),[CallExpr(Id(f),[CallExpr(Id(f),[])])])])])]),CallExpr(Id(g),[CallExpr(Id(g),[CallExpr(Id(g),[]),CallExpr(Id(g),[]),CallExpr(Id(g),[CallExpr(Id(g),[IntLiteral(1),IntLiteral(2),IntLiteral(3),ArrayLiteral(IntLiteral(5))])])])])))]))])

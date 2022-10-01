@@ -1,0 +1,11 @@
+
+            Function: main
+                Body: 
+                    While a>b Do
+                        While b<c Do 
+                            b=b+1; 
+                        EndWhile. 
+                        Break; 
+                    EndWhile. 
+                EndBody.
+        

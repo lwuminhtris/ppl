@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main)[VarDecl(Id(x))],([][Return(BinaryOp(>,CallExpr(Id(main),[BinaryOp(+,Id(x),IntLiteral(5))]),CallExpr(Id(main),[IntLiteral(37)]))),Return()]))])

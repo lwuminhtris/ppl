@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(a)[VarDecl(Id(x))],([VarDecl(Id(y))][For(Id(i),IntLiteral(1),BinaryOp(!=,BinaryOp(%,Id(i),IntLiteral(2)),IntLiteral(0)),BinaryOp(>,BinaryOp(+,IntLiteral(1),IntLiteral(2)),IntLiteral(3)),[VarDecl(Id(z))],[])]))])

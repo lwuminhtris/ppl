@@ -1,0 +1,19 @@
+Function: main
+Body:
+    Var: a;
+    For(i=1, i\.2>=2.e-7, !False) Do
+        Var: b[1][2] = 3;
+        While i < False Do
+            Var: c;
+            c = c + 2.4e-5 * foo(3)[1];
+            Do
+                Var: d; 
+                i = i + 1;
+                If i == j Then
+                    Var: e;
+                    Return e;
+                EndIf.
+            While i > True + 0o12 EndDo.
+        EndWhile.
+    EndFor.
+EndBody.

@@ -1,0 +1,1 @@
+Function: emp Body: If 1 Then Else EndIf. While 1 Do EndWhile. For (x=1,1,1) Do EndFor.EndBody. Function: main Parameter: n Body: Do While 1 EndDo. Continue; Return; EndBody.

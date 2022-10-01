@@ -1,0 +1,1 @@
+Function: main Parameter: a,b Body: Var: car,di,lak; If a>b Then Var: a,b; a=b; ElseIf c>d Then Var: c,d; c=d; Else Var: x,y; x=y; EndIf. EndBody.

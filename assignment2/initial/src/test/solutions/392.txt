@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(print_prefix)[VarDecl(Id(root))],([][If(BinaryOp(==,Id(root),Id(null)),[],[Return(),CallStmt(Id(print),[ArrayCell(Id(root),[IntLiteral(0)])]),CallStmt(Id(print_prefix),[ArrayCell(Id(root),[IntLiteral(1)])]),CallStmt(Id(print_prefix),[ArrayCell(Id(root),[IntLiteral(2)])])])Else([],[])]))])

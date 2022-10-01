@@ -1,0 +1,1 @@
+Program([VarDecl(Id(a)),FuncDecl(Id(test)[VarDecl(Id(b))],([VarDecl(Id(c))][While(BinaryOp(<,Id(b),IntLiteral(18)),[VarDecl(Id(d))],[Return(BinaryOp(+,Id(d),Id(c)))])]))])

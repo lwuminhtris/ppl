@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main)[],([VarDecl(Id(a),ArrayLiteral(BooleanLiteral(true),BooleanLiteral(false),BooleanLiteral(true)))][While(ArrayCell(Id(a),[IntLiteral(2)]),[],[Return(BinaryOp(==,ArrayCell(Id(a),[IntLiteral(3)]),ArrayCell(Id(a),[IntLiteral(5)])))])]))])

@@ -1,0 +1,1 @@
+Function: main Body: Var: add_f,a,b; add_f = add; a= cin(); b=cin(); printf(add_f(a,b)); EndBody. 

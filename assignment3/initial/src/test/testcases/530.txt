@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(f1)[VarDecl(Id(x))],([][Return(ArrayLiteral(IntLiteral(1),IntLiteral(2)))])),FuncDecl(Id(main)[VarDecl(Id(a)),VarDecl(Id(b),[2])],([][Assign(ArrayCell(CallExpr(Id(f1),[IntLiteral(5)]),[IntLiteral(1),IntLiteral(2)]),IntLiteral(5))]))])

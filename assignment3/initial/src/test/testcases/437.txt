@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main)[],([][CallStmt(Id(f1),[]),CallStmt(Id(f2),[Id(b)])])),FuncDecl(Id(f1)[],([][]))])

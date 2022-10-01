@@ -1,0 +1,1 @@
+Var: a,b; Function: main Body: Var: x,y[1],y={1}, g[2][3]= "String"; f(g)[1] = {1,2,3}; For (i=0, i<len(g), 1%2) Do For (j=0,j<len(g[i]),3-2) Do If g[i][j] \5 %(2+2*2) <= f(g[0])[0] Then print(g[i][j]); Else Continue; EndIf. EndFor. EndFor. EndBody. Function: f Parameter: any Body: Return any; EndBody.

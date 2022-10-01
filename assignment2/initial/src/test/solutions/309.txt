@@ -1,0 +1,1 @@
+Program([VarDecl(Id(str),StringLiteral(I love you \n so much)),FuncDecl(Id(main)[],([][CallStmt(Id(print),[Id(str)])]))])

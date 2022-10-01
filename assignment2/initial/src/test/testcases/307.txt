@@ -1,0 +1,13 @@
+
+        Var: a, b = 2, c[1], d[2] = {3, "Haha"};
+
+        Function: foo1
+        Parameter: f1, f2
+        Body:
+        EndBody.
+
+        Function: foo2
+        Body:
+        EndBody.
+
+        

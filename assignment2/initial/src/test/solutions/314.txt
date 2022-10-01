@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main)[],([][Assign(ArrayCell(CallExpr(Id(smt_12),[IntLiteral(1),IntLiteral(2),ArrayCell(Id(a),[IntLiteral(2),UnaryOp(-,BooleanLiteral(false))])]),[BinaryOp(+,IntLiteral(18),IntLiteral(6))]),ArrayCell(Id(haha),[IntLiteral(1),UnaryOp(!,UnaryOp(!,IntLiteral(3)))]))]))])

@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main)[VarDecl(Id(x))],([VarDecl(Id(arr),[2,3])][CallStmt(Id(main),[Id(arr)])]))])

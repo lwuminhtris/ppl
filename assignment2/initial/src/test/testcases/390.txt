@@ -1,0 +1,1 @@
+Function: second_converter Parameter: day,hour,minute,second Body: hour = 24*day + hour; minute = hour*60+minute; second = minute * 60 + second; Return second; EndBody.

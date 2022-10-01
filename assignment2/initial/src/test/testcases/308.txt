@@ -1,0 +1,10 @@
+
+        Function: main
+        Parameter: a, b
+        Body:
+            Var: x, y = 2;
+            If y >= 2 Then
+                Return;
+            EndIf.
+        EndBody.
+        

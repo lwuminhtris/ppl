@@ -1,0 +1,8 @@
+
+            Function: main
+            Parameter: a,b
+            Body:
+                Do
+                    a = 5;
+                While a EndDo.
+            EndBody.

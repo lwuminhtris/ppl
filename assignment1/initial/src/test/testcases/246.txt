@@ -1,0 +1,11 @@
+
+            Function: empty 
+                Body: 
+                    For(i=1,i<=100,1) Do 
+                        For(j=i,j<=100,2) Do 
+                            writeln(j);  
+                        EndFor. 
+                        Continue; 
+                    EndFor. 
+                EndBody.
+        

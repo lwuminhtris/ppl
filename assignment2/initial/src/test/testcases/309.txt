@@ -1,0 +1,7 @@
+
+        Var: str="I love you \n so much";
+        Function: main
+        Body:
+            print(str);
+        EndBody.
+        

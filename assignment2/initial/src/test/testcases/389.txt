@@ -1,0 +1,1 @@
+Var: use_less_var; Function: rapviet Parameter: longlanh,laplanh, kieusa, money Body: If longlanh &&laplanh &&kieusa Then print("DC"); ElseIf money Then print("Gducky"); Else print("Meh"); EndIf. EndBody.

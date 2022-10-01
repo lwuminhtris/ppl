@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(empty)[],([][CallStmt(Id(func),[UnaryOp(!,BooleanLiteral(false))])]))])

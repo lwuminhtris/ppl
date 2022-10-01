@@ -1,0 +1,1 @@
+Function: for Parameter: x,y Body: For (a= 1+ 5<=5  || (2\3)*4%5, a =/=5 || b \. 5 *. !!!-6 , True - "String" && False >= !!!a) Do nothing(); EndFor. EndBody.

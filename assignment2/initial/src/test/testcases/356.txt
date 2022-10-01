@@ -1,0 +1,2 @@
+Var: a[1], b[9][10]={1,{2}}; Function: main 
+ Body: func(a[6], func[6][7], {2})[2] = func(null)[True] + func[True] + func(True) || !func(True, f(),f(true)[0]); EndBody.

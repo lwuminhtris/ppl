@@ -1,0 +1,1 @@
+Type Cannot Be Inferred: CallStmt(Id(main),[Id(a)])

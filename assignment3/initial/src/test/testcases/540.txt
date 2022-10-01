@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main)[VarDecl(Id(x))],([][While(CallExpr(Id(main),[CallExpr(Id(main),[CallExpr(Id(main),[IntLiteral(10)])])]),[],[])]))])

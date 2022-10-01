@@ -1,0 +1,1 @@
+Var: a={5,6}, arr[1][2]=7.5; Var: str="String"; Function: all_full Parameter: n, n[2][3], n[0] Body: Var: str = "a long \n string"; n = len(str); While n > 0 Do Var: a = 1, b=2; println(n+a, n-b,n[1][6*0.5>True\0e0]); Continue; EndWhile. EndBody. 

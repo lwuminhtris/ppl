@@ -1,0 +1,1 @@
+Function: main Parameter: a,b Body: Var: car,di,lak;  While x =/= y Do Var: a,b,c; a()[6][7][b()] = c; EndWhile. EndBody.

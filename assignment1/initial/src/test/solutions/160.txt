@@ -1,0 +1,1 @@
+ just a normal string,<EOF>

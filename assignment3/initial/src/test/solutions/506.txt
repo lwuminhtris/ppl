@@ -1,0 +1,1 @@
+Type Cannot Be Inferred: Return(CallExpr(Id(test),[]))

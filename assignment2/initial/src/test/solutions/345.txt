@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(empty)[],([][Assign(Id(x),BinaryOp(-.,BinaryOp(+,UnaryOp(!,UnaryOp(-,Id(a))),BinaryOp(\,UnaryOp(!,ArrayCell(Id(b),[IntLiteral(0)])),IntLiteral(5))),BinaryOp(||,BinaryOp(||,BinaryOp(*.,BinaryOp(==,Id(x),Id(y)),BinaryOp(-,BinaryOp(-,FloatLiteral(30000000.0),IntLiteral(7)),Id(gg))),BooleanLiteral(true)),UnaryOp(!,BooleanLiteral(false)))))]))])

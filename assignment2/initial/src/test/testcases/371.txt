@@ -1,0 +1,1 @@
+Function: main Parameter: a,b Body: Var: car,di,lak; Do Var: x,y,g; x[1] = y[7.5] \. g["True"]; While nothing EndDo.  EndBody.

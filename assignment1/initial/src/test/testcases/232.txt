@@ -1,0 +1,12 @@
+
+            Function: main 
+                Body: 
+                    If 1+2==3 Then 
+                        Return; 
+                    ElseIf "hihi" Then 
+                        Break; 
+                    Else 
+                        Return; 
+                    EndIf. 
+                EndBody.
+        

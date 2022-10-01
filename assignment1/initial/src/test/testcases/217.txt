@@ -1,0 +1,7 @@
+
+            Function: main
+                Parameter: a[1]
+                Body:
+                    narcist = a[1];
+                EndBody.
+        

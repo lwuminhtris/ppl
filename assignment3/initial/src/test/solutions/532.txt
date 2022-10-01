@@ -1,0 +1,1 @@
+Type Mismatch In Statement: For(Id(a),IntLiteral(5),ArrayCell(Id(b),[IntLiteral(2)]),ArrayCell(Id(c),[IntLiteral(3)]),[],[])

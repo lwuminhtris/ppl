@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main)[VarDecl(Id(a))],([][CallStmt(Id(main),[CallExpr(Id(main),[FloatLiteral(2.5)])])]))])

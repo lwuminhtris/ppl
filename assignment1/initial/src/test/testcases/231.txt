@@ -1,0 +1,10 @@
+
+            Function: main 
+                Body: 
+                    If a==b Then 
+                        a=1; 
+                    ElseIf a!=b Then 
+                        Return a; 
+                    EndIf. 
+                EndBody.
+        

@@ -1,0 +1,1 @@
+Program([VarDecl(Id(a),ArrayLiteral(FloatLiteral(0.0),FloatLiteral(1.2),FloatLiteral(0.0),FloatLiteral(2000.0),FloatLiteral(0.002),FloatLiteral(30000.0),FloatLiteral(0.0003),FloatLiteral(5000000.0),FloatLiteral(5000000.0),FloatLiteral(0.0),FloatLiteral(5.6e-06)))])

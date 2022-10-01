@@ -1,0 +1,1 @@
+Type Mismatch In Expression: BinaryOp(||,CallExpr(Id(bool_of_string),[StringLiteral()]),CallExpr(Id(printStrLn),[CallExpr(Id(string_of_bool),[BinaryOp(>,IntLiteral(1),IntLiteral(2))])]))

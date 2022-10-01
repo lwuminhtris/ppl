@@ -1,0 +1,1 @@
+Program([VarDecl(Id(a),ArrayLiteral(IntLiteral(1),IntLiteral(0),IntLiteral(1),IntLiteral(298),IntLiteral(83),IntLiteral(1175)))])

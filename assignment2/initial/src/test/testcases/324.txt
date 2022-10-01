@@ -1,0 +1,13 @@
+
+        Var: a;
+
+        Function: test
+        Parameter: b
+        Body:
+            Var: c;
+            While b < 0x12 Do
+                Var: d;
+                Return d + c;
+            EndWhile.
+        EndBody.
+        

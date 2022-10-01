@@ -1,0 +1,10 @@
+
+            Function: empty 
+                Body: 
+                    Do 
+                        Do 
+                            a=(a-b)+c*2; 
+                        While x>50 EndDo. 
+                    While x<100 EndDo. 
+                EndBody.
+        

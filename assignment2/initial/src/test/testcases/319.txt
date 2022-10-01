@@ -1,0 +1,6 @@
+
+        Function: main
+        Body:
+            a[1][2] = {{1, 0o12}, {"haha", 1.e+7}, True};
+        EndBody.
+        

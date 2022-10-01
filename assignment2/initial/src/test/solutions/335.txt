@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(empty)[],([][CallStmt(Id(foo),[]),CallStmt(Id(foo),[]),CallStmt(Id(foo),[])]))])

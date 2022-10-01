@@ -1,0 +1,8 @@
+
+            Function: main 
+                Parameter: n 
+                Body: 
+                    Var: a,b,c; 
+                    writeln(a,b,c); 
+                EndBody.
+        

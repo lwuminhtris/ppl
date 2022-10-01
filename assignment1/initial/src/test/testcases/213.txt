@@ -1,0 +1,6 @@
+
+            Function: empty
+                Body:
+                    genesis(1,2,a[2][-True])[5+6] = ive[1][!!2];
+                EndBody.
+        

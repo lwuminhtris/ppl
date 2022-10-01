@@ -1,0 +1,1 @@
+Var: a[6][5]; Var: b=5; Function: main Parameter: a,b,c[6][7] Body: Var: g[7] = {1,2,3};   If g != null Then print_list(g);  Return;EndIf.  print("Null list"); EndBody. Function: print_list Parameter: g[100] Body: elem = g[0]; i=0; While elem != null Do print(elem); i = i+1; elem = g[i]; EndWhile.  EndBody.

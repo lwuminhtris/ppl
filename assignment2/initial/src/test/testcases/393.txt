@@ -1,0 +1,1 @@
+Function: dumb_var Parameter: a,b,c[2] Body: Var: a,b[2][3] = False; If a[2][3] == False Then Var: a = "This is a"; print(a); EndIf. While a== null Do Var: a = {"Totally not null"}; Continue; EndWhile. EndBody.

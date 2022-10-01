@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main)[VarDecl(Id(a),[3])],([][CallStmt(Id(main),[ArrayLiteral(IntLiteral(1),IntLiteral(2),IntLiteral(3))]),CallStmt(Id(main),[ArrayLiteral(IntLiteral(4),IntLiteral(5),IntLiteral(6))]),CallStmt(Id(main),[ArrayLiteral(IntLiteral(1))])]))])

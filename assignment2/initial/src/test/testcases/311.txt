@@ -1,0 +1,10 @@
+
+        Function: a
+        Parameter: x
+        Body:
+            Var: y;
+            For(i=1, i%2!=0, (1+2)>3) Do
+                Var: z;
+            EndFor.
+        EndBody.
+        

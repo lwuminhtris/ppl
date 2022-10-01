@@ -1,0 +1,1 @@
+Var: a,b,c=5,d[5][0x12]={1,{5.6,7}}; Var: x,y; Function: recur Parameter: n Body: If n==0 Then Return 0; EndIf. Return recur(n-1); EndBody. Function: main Body: recur(5000); EndBody.

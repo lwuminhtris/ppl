@@ -1,0 +1,10 @@
+
+            Function: empty 
+                Body: 
+                    For(i = 2, i!=100, i+1) Do 
+                        If (a+b)>(c+d) Then 
+                            Return "Something'"Just Like This\n'""; 
+                        EndIf. 
+                    EndFor. 
+                EndBody.
+        

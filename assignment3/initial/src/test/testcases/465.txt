@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(f)[VarDecl(Id(x))],([][Assign(Id(x),IntLiteral(5)),Return(CallExpr(Id(float_to_int),[Id(x)]))])),FuncDecl(Id(main)[VarDecl(Id(x))],([][Return(CallExpr(Id(f),[CallExpr(Id(main),[CallExpr(Id(f),[CallExpr(Id(main),[FloatLiteral(2.5)])])])]))])),FuncDecl(Id(test)[VarDecl(Id(x))],([][Assign(Id(x),BinaryOp(-,CallExpr(Id(f),[CallExpr(Id(main),[Id(x)])]),Id(x)))]))])

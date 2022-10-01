@@ -1,0 +1,1 @@
+Function: gcd Parameter: a,b Body: If b == 0 Then Return a; Else Return gcd(b, a%b); EndIf. EndBody.

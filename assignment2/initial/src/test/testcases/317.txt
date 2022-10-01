@@ -1,0 +1,7 @@
+
+        Function: main
+        Body:
+            Var: a;
+            foo()[x()][y()] = 0.4;
+        EndBody.
+        

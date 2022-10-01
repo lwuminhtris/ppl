@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main)[],([VarDecl(Id(a),ArrayLiteral(IntLiteral(1),IntLiteral(2),IntLiteral(3),IntLiteral(4),IntLiteral(5))),VarDecl(Id(b))][For(Id(b),ArrayCell(Id(a),[IntLiteral(2)]),BinaryOp(>,ArrayCell(Id(a),[IntLiteral(3)]),ArrayCell(Id(a),[IntLiteral(4)])),ArrayCell(Id(a),[IntLiteral(6)]),[],[If(Id(a),[],[Return()])Else([],[])])]))])

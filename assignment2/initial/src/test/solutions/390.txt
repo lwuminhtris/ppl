@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(second_converter)[VarDecl(Id(day)),VarDecl(Id(hour)),VarDecl(Id(minute)),VarDecl(Id(second))],([][Assign(Id(hour),BinaryOp(+,BinaryOp(*,IntLiteral(24),Id(day)),Id(hour))),Assign(Id(minute),BinaryOp(+,BinaryOp(*,Id(hour),IntLiteral(60)),Id(minute))),Assign(Id(second),BinaryOp(+,BinaryOp(*,Id(minute),IntLiteral(60)),Id(second))),Return(Id(second))]))])

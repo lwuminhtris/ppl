@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main)[],([VarDecl(Id(arr),ArrayLiteral(IntLiteral(1),IntLiteral(3),IntLiteral(2)))][Return(ArrayCell(Id(arr),[CallExpr(Id(main),[])]))])),FuncDecl(Id(test)[],([][CallStmt(Id(main),[])]))])

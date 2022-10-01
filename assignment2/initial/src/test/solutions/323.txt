@@ -1,0 +1,1 @@
+Program([VarDecl(Id(a)),VarDecl(Id(b),IntLiteral(2)),VarDecl(Id(c),[1],IntLiteral(3)),VarDecl(Id(d),StringLiteral(so fvcking \t funny)),FuncDecl(Id(main)[VarDecl(Id(a)),VarDecl(Id(b),[1])],([VarDecl(Id(x))][Dowhile([VarDecl(Id(y))],[],BinaryOp(>,Id(x),Id(a)))])),FuncDecl(Id(util)[],([][Break()]))])

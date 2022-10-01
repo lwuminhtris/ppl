@@ -1,0 +1,7 @@
+
+            Function: main 
+                Parameter: n,c,y 
+                Body: 
+                
+                EndBody
+        

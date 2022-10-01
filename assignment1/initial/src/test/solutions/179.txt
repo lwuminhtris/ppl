@@ -1,0 +1,1 @@
+writeLn,(,Unclosed String: bokura wa 

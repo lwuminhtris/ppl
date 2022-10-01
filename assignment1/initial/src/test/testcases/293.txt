@@ -1,0 +1,6 @@
+
+            Function: main 
+                Body: 
+                    a=b[True==False+2] + a + "aaa";  
+                EndBody.
+        

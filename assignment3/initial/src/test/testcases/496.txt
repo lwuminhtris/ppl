@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(f1)[],([][])),FuncDecl(Id(f2)[],([][])),FuncDecl(Id(maini)[],([][]))])

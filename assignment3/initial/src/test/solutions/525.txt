@@ -1,0 +1,1 @@
+Type Mismatch In Statement: Assign(Id(y),CallExpr(Id(f),[BinaryOp(+,IntLiteral(6),ArrayCell(CallExpr(Id(f),[ArrayCell(CallExpr(Id(f),[Id(x)]),[IntLiteral(3)])]),[IntLiteral(7)]))]))

@@ -1,0 +1,11 @@
+
+        Function: fib
+        Parameter: a
+        Body:
+            If a == 1 Then
+                Return 1;
+            Else
+                Return a * fib(a - 1);
+            EndIf.
+        EndBody.
+        

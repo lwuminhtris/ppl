@@ -1,0 +1,18 @@
+
+        Var: a, b = 2, c[1] = 3;
+        Var: d="so fvcking \t funny";
+
+        Function: main
+        Parameter: a, b[1]
+        Body:
+            Var: x;
+            Do
+                Var: y;
+            While x > a EndDo.
+        EndBody.
+
+        Function: util
+        Body:
+            Break;
+        EndBody.
+        

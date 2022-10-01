@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(convert_to_int)[],([VarDecl(Id(a))][If(Id(a),[],[Assign(Id(a),ArrayCell(Id(array),[IntLiteral(1),IntLiteral(2)]))])Else([],[])]))])

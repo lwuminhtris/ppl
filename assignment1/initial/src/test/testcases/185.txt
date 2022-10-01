@@ -1,0 +1,3 @@
+For (i=0, i<69,1) Do 
+ j = j + 1; 
+ EndFor.

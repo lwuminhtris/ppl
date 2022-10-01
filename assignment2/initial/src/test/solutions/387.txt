@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(bunchofs)[],([][CallStmt(Id(funtion),[]),Assign(Id(a),Id(b)),Assign(ArrayCell(CallExpr(Id(f),[]),[IntLiteral(2)]),ArrayLiteral(IntLiteral(6))),Continue(),Break(),Return(Id(s)),Return()]))])

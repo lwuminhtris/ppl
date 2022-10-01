@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(add)[VarDecl(Id(a)),VarDecl(Id(b))],([][Return(BinaryOp(+,Id(a),Id(b)))]))])

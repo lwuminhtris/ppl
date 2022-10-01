@@ -1,0 +1,1 @@
+Type Mismatch In Statement: Assign(Id(a),ArrayLiteral(ArrayLiteral(IntLiteral(1),IntLiteral(2),IntLiteral(3)),ArrayLiteral(IntLiteral(4),IntLiteral(5),IntLiteral(6))))

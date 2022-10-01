@@ -1,0 +1,9 @@
+
+        Function: convert_to_int
+        Body:
+            Var: a;
+            If a Then
+                a = array[1][2];
+            EndIf.
+        EndBody.
+        

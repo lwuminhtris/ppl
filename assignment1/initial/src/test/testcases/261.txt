@@ -1,0 +1,8 @@
+
+            Function: main 
+                Body: 
+                    Do 
+
+                    While x<100 EndDo. 
+                EndBody.
+        

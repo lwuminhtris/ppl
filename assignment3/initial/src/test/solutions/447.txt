@@ -1,0 +1,1 @@
+Type Cannot Be Inferred: Assign(Id(a),CallExpr(Id(f1),[]))

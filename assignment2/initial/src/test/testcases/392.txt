@@ -1,0 +1,1 @@
+Function: print_prefix Parameter: root Body: If root == null Then Return; print(root[0]); print_prefix(root[1]); print_prefix(root[2]); EndIf. EndBody. **root is array with 0-> value 1->left 2-> right**

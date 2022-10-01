@@ -1,0 +1,8 @@
+
+            Function: empty 
+                Body: 
+                    Do 
+                    
+                    While a<1 EndDo. 
+                EndBody.
+        

@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(recur)[VarDecl(Id(x)),VarDecl(Id(y))],([][Assign(Id(x),FloatLiteral(2.2)),CallStmt(Id(recur),[Id(y),Id(x)])])),FuncDecl(Id(main)[],([][]))])

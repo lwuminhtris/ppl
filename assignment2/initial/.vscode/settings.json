@@ -1,0 +1,8 @@
+{
+    "python.analysis.extraPaths": [
+        "./src/test",
+        "./target",
+        "./src/main/bkit/parser",
+        "./src/main/bkit/utils"
+    ]
+}

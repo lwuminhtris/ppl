@@ -1,0 +1,6 @@
+
+            Function: lovedive
+                Body:
+                    x = "haha";
+                EndBody.
+        

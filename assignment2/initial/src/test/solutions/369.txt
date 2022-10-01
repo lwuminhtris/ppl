@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main)[VarDecl(Id(a)),VarDecl(Id(b))],([VarDecl(Id(car)),VarDecl(Id(di)),VarDecl(Id(lak))][For(Id(a),Id(b),BinaryOp(>,Id(c),IntLiteral(5)),BinaryOp(+,Id(x),BooleanLiteral(true)),[VarDecl(Id(a)),VarDecl(Id(b)),VarDecl(Id(c))],[Assign(Id(a),BinaryOp(*,Id(c),UnaryOp(!,UnaryOp(-,Id(b)))))]),Break()]))])

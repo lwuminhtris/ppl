@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main)[],([][CallStmt(Id(f1),[IntLiteral(2),FloatLiteral(2.4)])])),FuncDecl(Id(f1)[VarDecl(Id(a)),VarDecl(Id(b))],([][CallStmt(Id(f1),[Id(a),Id(b)]),Return(),Assign(Id(a),BinaryOp(-.,Id(b),FloatLiteral(5.5)))]))])

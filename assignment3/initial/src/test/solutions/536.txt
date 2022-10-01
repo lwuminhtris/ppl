@@ -1,0 +1,1 @@
+Type Mismatch In Statement: Assign(ArrayCell(Id(a),[IntLiteral(2)]),FloatLiteral(1.2))

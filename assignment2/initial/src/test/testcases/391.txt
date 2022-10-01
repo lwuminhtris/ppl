@@ -1,0 +1,1 @@
+Function: day_converter Parameter: day,hour,minute,second Body: day = hour\.24+ minute \.(60*24) + second \. (60*60*24) + day; Return day \ 1; EndBody. 

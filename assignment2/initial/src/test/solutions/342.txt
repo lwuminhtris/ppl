@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main)[],([][While(BinaryOp(>,UnaryOp(!,UnaryOp(!,UnaryOp(!,UnaryOp(!,UnaryOp(!,UnaryOp(!,UnaryOp(!,UnaryOp(!,UnaryOp(!,UnaryOp(!,UnaryOp(!,UnaryOp(!,Id(a))))))))))))),UnaryOp(!,Id(b))),[],[Return()])]))])

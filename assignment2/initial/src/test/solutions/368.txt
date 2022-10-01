@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main)[VarDecl(Id(a)),VarDecl(Id(b))],([VarDecl(Id(car)),VarDecl(Id(di)),VarDecl(Id(lak))][If(BinaryOp(>,Id(a),Id(b)),[VarDecl(Id(a)),VarDecl(Id(b))],[Assign(Id(a),Id(b))])ElseIf(BinaryOp(>,Id(c),Id(d)),[VarDecl(Id(c)),VarDecl(Id(d))],[Assign(Id(c),Id(d))])Else([VarDecl(Id(x)),VarDecl(Id(y))],[Assign(Id(x),Id(y))])]))])

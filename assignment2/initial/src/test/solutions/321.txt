@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(fib)[VarDecl(Id(a))],([][If(BinaryOp(==,Id(a),IntLiteral(1)),[],[Return(IntLiteral(1))])Else([],[Return(BinaryOp(*,Id(a),CallExpr(Id(fib),[BinaryOp(-,Id(a),IntLiteral(1))])))])]))])

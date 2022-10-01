@@ -1,0 +1,1 @@
+Var: a,b,c=5,d[5][0o12]={1}; Var: x,y; Function: count Parameter: n Body: While n>0 Do printf(n); n=n-1; EndWhile. Return n; EndBody. Function: main Body: count(5000); EndBody.

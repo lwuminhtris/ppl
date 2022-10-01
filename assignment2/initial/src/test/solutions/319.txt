@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main)[],([][Assign(ArrayCell(Id(a),[IntLiteral(1),IntLiteral(2)]),ArrayLiteral(ArrayLiteral(IntLiteral(1),IntLiteral(10)),ArrayLiteral(StringLiteral(haha),FloatLiteral(10000000.0)),BooleanLiteral(true)))]))])

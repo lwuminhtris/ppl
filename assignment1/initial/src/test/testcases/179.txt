@@ -1,0 +1,2 @@
+writeLn("bokura wa 
+");

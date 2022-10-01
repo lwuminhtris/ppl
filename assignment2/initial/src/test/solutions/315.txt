@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main)[],([][Dowhile([],[Assign(Id(x),BinaryOp(+,Id(x),IntLiteral(1)))],BinaryOp(<,BinaryOp(+,IntLiteral(1),BinaryOp(*.,BinaryOp(-,BinaryOp(*,IntLiteral(2),IntLiteral(3)),BooleanLiteral(true)),BooleanLiteral(false))),UnaryOp(-,UnaryOp(!,IntLiteral(2)))))]))])

@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main)[VarDecl(Id(a)),VarDecl(Id(b))],([][While(Id(a),[],[Assign(Id(a),IntLiteral(5))])]))])

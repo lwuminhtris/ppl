@@ -1,0 +1,1 @@
+Var: plus="+"; Function: print_pattern Parameter: line_number, char Body: For (i=0, i<line_number, 1) Do Var: j; j= i+1; While j>0 Do print(char); EndWhile. print("\n"); EndFor. EndBody. Function: main Body: print_pattern(10,plus); EndBody.

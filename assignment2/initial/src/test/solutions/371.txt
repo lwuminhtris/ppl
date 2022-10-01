@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main)[VarDecl(Id(a)),VarDecl(Id(b))],([VarDecl(Id(car)),VarDecl(Id(di)),VarDecl(Id(lak))][Dowhile([VarDecl(Id(x)),VarDecl(Id(y)),VarDecl(Id(g))],[Assign(ArrayCell(Id(x),[IntLiteral(1)]),BinaryOp(\.,ArrayCell(Id(y),[FloatLiteral(7.5)]),ArrayCell(Id(g),[StringLiteral(True)])))],Id(nothing))]))])

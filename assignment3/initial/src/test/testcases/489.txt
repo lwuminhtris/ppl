@@ -1,0 +1,1 @@
+Program([VarDecl(Id(a)),VarDecl(Id(b)),VarDecl(Id(c)),FuncDecl(Id(main)[],([][])),FuncDecl(Id(nani)[],([][If(BooleanLiteral(true),[],[])ElseIf(BooleanLiteral(false),[],[])Else([],[]),For(Id(a),Id(a),BinaryOp(>,Id(a),Id(c)),Id(b),[],[]),Return(CallExpr(Id(nani),[]))]))])

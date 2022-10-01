@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main)[],([][If(ArrayCell(Id(x),[IntLiteral(1),IntLiteral(2),FloatLiteral(2.5),FloatLiteral(30000000.0)]),[],[])ElseIf(Id(nothing),[],[])Else([],[])]))])

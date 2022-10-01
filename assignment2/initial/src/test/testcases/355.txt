@@ -1,0 +1,2 @@
+Function: empty 
+ Body: a_neme(1,2,a[2][-True])[5+6] = a_neme[1][!!2]; EndBody.

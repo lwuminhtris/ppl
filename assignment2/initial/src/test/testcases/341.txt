@@ -1,0 +1,1 @@
+Function: main Body: If a||b&&c||b&&a Then ElseIf c&&a&&b||b||c Then Else EndIf. EndBody.

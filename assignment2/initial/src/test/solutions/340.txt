@@ -1,0 +1,1 @@
+Program([FuncDecl(Id(main)[],([][If(BinaryOp(-,BinaryOp(-,BinaryOp(+,FloatLiteral(3.5),FloatLiteral(3e-05)),UnaryOp(!,UnaryOp(!,UnaryOp(!,FloatLiteral(1.2))))),UnaryOp(-,UnaryOp(-,IntLiteral(291)))),[],[])ElseIf(Id(none),[],[])Else([],[])]))])

@@ -1,0 +1,1 @@
+Program([VarDecl(Id(use_less_var)),FuncDecl(Id(rapviet)[VarDecl(Id(longlanh)),VarDecl(Id(laplanh)),VarDecl(Id(kieusa)),VarDecl(Id(money))],([][If(BinaryOp(&&,BinaryOp(&&,Id(longlanh),Id(laplanh)),Id(kieusa)),[],[CallStmt(Id(print),[StringLiteral(DC)])])ElseIf(Id(money),[],[CallStmt(Id(print),[StringLiteral(Gducky)])])Else([],[CallStmt(Id(print),[StringLiteral(Meh)])])]))])
